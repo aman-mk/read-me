@@ -246,4 +246,6 @@ Contact getFromMemory(Contact data[]){
 	totalNumberOfContact=i;
 	file.close();
 	return *data;
+	
+	//dsaifj
   }
